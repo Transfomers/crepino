@@ -1,0 +1,35 @@
+[00:00:01.273] Server  LOG     ✓ Ready in 961ms
+[00:00:14.495] Server  LOG     ○ Compiling / ...
+[00:00:18.436] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:18.908] Server  ERROR   ⨯ "upstream image response failed for" "https://images.unsplash.com/photo-1519676867240-f031ea443c0d?auto=format&fit=crop&w=800&q=80" 404
+[00:00:21.386] Server  ERROR   ⨯ "upstream image response failed for" "https://images.unsplash.com/photo-1519676867240-f031ea443c0d?auto=format&fit=crop&w=1000&q=80" 404
+[00:00:21.599] Browser WARN    Image with src "https://images.unsplash.com/photo-1562376552-0d160a2f238d?auto=format&fit=crop&w=800&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:21.599] Browser WARN    Image with src "https://images.unsplash.com/photo-1473093226795-af9932fe5856?auto=format&fit=crop&w=800&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:31.079] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:31.270] Browser WARN    Image with src "https://images.unsplash.com/photo-1473093226795-af9932fe5856?auto=format&fit=crop&w=800&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:31.270] Browser WARN    Image with src "https://images.unsplash.com/photo-1562376552-0d160a2f238d?auto=format&fit=crop&w=800&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:32.130] Server  ERROR   ⨯ "upstream image response failed for" "https://images.unsplash.com/photo-1519676867240-f031ea443c0d?auto=format&fit=crop&w=800&q=80" 404
+[00:00:32.136] Server  ERROR   ⨯ "upstream image response failed for" "https://images.unsplash.com/photo-1519676867240-f031ea443c0d?auto=format&fit=crop&w=1000&q=80" 404
+[00:00:34.807] Server  ERROR   ⨯ "upstream image response failed for" "https://images.unsplash.com/photo-1544787210-2213d2429511?auto=format&fit=crop&w=800&q=80" 404
+[00:00:36.146] Browser WARN    Image with src "https://images.unsplash.com/photo-1534778101976-62847782c213?auto=format&fit=crop&w=800&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:36.146] Browser WARN    Image with src "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=800&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:50.739] Browser WARN    Translation missing for key: notification.addedToCart
+[00:00:50.824] Browser WARN    Translation missing for key: notification.viewCart
+[00:00:50.829] Browser WARN    Translation missing for key: notification.addedToCart
+[00:00:50.829] Browser WARN    Translation missing for key: notification.viewCart
+[00:00:52.504] Browser WARN    Translation missing for key: notification.addedToCart
+[00:00:52.504] Browser WARN    Translation missing for key: notification.viewCart
+[00:00:52.504] Browser WARN    Translation missing for key: notification.addedToCart
+[00:00:52.504] Browser WARN    Translation missing for key: notification.viewCart
+[00:00:54.111] Browser WARN    Translation missing for key: notification.addedToCart
+[00:00:54.114] Browser WARN    Translation missing for key: notification.viewCart
+[00:00:54.114] Browser WARN    Translation missing for key: notification.addedToCart
+[00:00:54.115] Browser WARN    Translation missing for key: notification.viewCart
+[00:00:58.099] Browser WARN    Translation missing for key: notification.addedToCart
+[00:00:58.100] Browser WARN    Translation missing for key: notification.viewCart
+[00:00:58.100] Browser WARN    Translation missing for key: notification.addedToCart
+[00:00:58.100] Browser WARN    Translation missing for key: notification.viewCart
+[00:01:00.108] Browser WARN    Translation missing for key: cart.articles
+[00:01:00.109] Browser WARN    Translation missing for key: cart.clear
+[00:01:00.109] Browser WARN    Translation missing for key: cart.articles
+[00:01:00.109] Browser WARN    Translation missing for key: cart.clear
